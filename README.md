@@ -41,4 +41,4 @@ kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan
 
 **Selamat ya kamu 🏆🏅**
 
-![Sertifikat kamu](https://github.com/dipintoo/freeCodeCamp_React-Calculator/blob/main/Sertifikat.png)
+![Sertifikat kamu](https://github.com/dipintoo/freeCodeCamp_D3-Tree-Map/blob/main/Sertifikat%20Data%20Visualization.png)
