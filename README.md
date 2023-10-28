@@ -1,6 +1,6 @@
 # [5/5] Visualize Data with a Tree Map
 
-**SELAMAT!** kamu sudah berhasil menyelesaikan project keempat [Visualize Data with a Choropleth Map](https://github.com/dipintoo/freeCodeCamp_D3-Choropleth-Map). dan akhirnya sekarang perjalanan kamu telah sampai ke project terakhir sehingga selangkah lagi kamu akan meraih sertifikat [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax) dari freeCodeCamp!
+**SELAMAT!** kamu sudah berhasil menyelesaikan project keempat [Visualize Data with a Choropleth Map](https://github.com/dipintoo/freeCodeCamp_D3-Choropleth-Map) dan akhirnya sekarang perjalanan kamu telah sampai ke project terakhir sehingga selangkah lagi kamu akan meraih sertifikat [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax) dari freeCodeCamp!
 
 ## Teknologi yang digunakan
 
