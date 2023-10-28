@@ -11,7 +11,7 @@ Pada project ini kamu diberikan [Data Penjualan Film Paling Laris di Dunia](http
 1. Saya dapat melihat elemen judul yang memiliki ID `title`
 2. Saya dapat melihat elemen deskripsi yang memiliki ID `description`
 3. Saya dapat melihat elemen rect dengan class `tile` yang mewakili setiap data.
-4. Setiap tile akan memiliki properti `data-name`, `data-category`, dan `data-value` yang berisi nama, kategori, dan nilai yang sesuai.
+4. Setiap `tile` akan memiliki properti `data-name`, `data-category`, dan `data-value` yang berisi nama, kategori, dan nilai yang sesuai.
 5. Proporsi luas setiap `tile` harus sesuai dengan `data-value` dimana `data-value` yang lebih besar harus memiliki luas yang lebih besar.
 6. Tree Map saya harus memiliki sebuah legenda dengan ID `legend`
 7. Legenda saya harus memiliki elemen `rect` dengan class `legend-item` yang sesuai.
