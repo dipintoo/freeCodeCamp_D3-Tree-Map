@@ -14,7 +14,7 @@ Pada project ini kamu diberikan [Data Penjualan Film Paling Laris di Dunia](http
 4. Setiap `tile` akan memiliki properti `data-name`, `data-category`, dan `data-value` yang berisi nama, kategori, dan nilai yang sesuai.
 5. Proporsi luas setiap `tile` harus sesuai dengan `data-value` dimana `data-value` yang lebih besar harus memiliki luas yang lebih besar.
 6. Tree Map saya harus memiliki sebuah legenda dengan ID `legend`
-7. Legenda saya harus memiliki elemen `rect` dengan class `legend-item` yang sesuai.
+7. Legenda saya harus memiliki elemen `rect` dengan class `legend-item`
 8. Elemen `rect` dalam legenda harus menggunakan setidaknya 2 warna untuk menggambarkan kategory film.
 10. Saat saya mengarahkan mouse ke setiap `tile` saya akan melihat `tooltip` dengan ID `tooltip` yang menampilkan informasi detail mengenai data tersebut.
 11. Tooltip saya harus memiliki properti `data-value` yang sesuai dengan `data-value` dari area yang aktif.
