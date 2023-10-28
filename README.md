@@ -10,14 +10,14 @@ Pada project ini kamu diberikan [Data Penjualan Film Paling Laris di Dunia](http
 
 1. Saya dapat melihat elemen judul yang memiliki ID `title`
 2. Saya dapat melihat elemen deskripsi yang memiliki ID `description`
-3. Saya dapat melihat county dengan class `county` yang mewakili setiap data.
-4. Setidaknya ada 4 warna pengisian berbeda yang digunakan untuk legenda.
-5. Setiap county akan memiliki properti `data-fips` dan `data-education` yang berisi nilai fips dan pendidikan yang sesuai.
-6. Peta choropleth saya harus memiliki satu county untuk setiap data yang disediakan.
-7. County harus memiliki nilai `data-fips` dan `data-education` yang sesuai.
-8. Peta choropleth saya harus memiliki sebuah legenda dengan ID `legend`
-9. Saat saya mengarahkan mouse ke suatu area pada peta, saya dapat melihat tooltip dengan ID `tooltip` yang menampilkan informasi detail tentang area tersebut.
-10. Tooltip saya harus memiliki properti `data-education` yang sesuai dengan area yang aktif.
+3. Saya dapat melihat elemen rect dengan class `tile` yang mewakili setiap data.
+4. Setiap tile akan memiliki properti `data-name`, `data-category`, dan `data-value` yang berisi nama, kategori, dan nilai yang sesuai.
+5. Proporsi luas setiap `tile` harus sesuai dengan `data-value` dimana `data-value` yang lebih besar harus memiliki luas yang lebih besar.
+6. Tree Map saya harus memiliki sebuah legenda dengan ID `legend`
+7. Legenda saya harus memiliki elemen `rect` dengan class `legend-item` yang sesuai.
+8. Elemen `rect` dalam legenda harus menggunakan setidaknya 2 warna untuk menggambarkan kategory film.
+10. Saat saya mengarahkan mouse ke setiap `tile` saya akan melihat `tooltip` dengan ID `tooltip` yang menampilkan informasi detail mengenai data tersebut.
+11. Tooltip saya harus memiliki properti `data-value` yang sesuai dengan `data-value` dari area yang aktif.
     
 ## Coding dan Testing
 
